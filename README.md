@@ -1,6 +1,6 @@
 # taxi-demand-forecasting-model
 
-A model that predicts airport taxi demand using time-series forecasting. Implements seasonal decomposition and gradient boosting to achieve an RMSE of 43 (Requirement: < 48)."
+A model that predicts airport taxi demand using time-series forecasting. Implements seasonal decomposition and gradient boosting to achieve an RMSE of 43 (Requirement: < 48).
 
 ### 🚀 Technical Highlights
 
