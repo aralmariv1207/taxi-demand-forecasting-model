@@ -1,8 +1,10 @@
-# taxi-demand-forecasting-model
+# Sweet Lift Taxi: Taxi Demand Forecasting Model
+
+## About
 
 A model that predicts airport taxi demand using time-series forecasting. Implements seasonal decomposition and gradient boosting to achieve an RMSE of 43 (Requirement: < 48).
 
-### 🚀 Technical Highlights
+## 🚀 Technical Highlights
 
 * **Advanced Time-Series Analysis**: Leveraged **seasonal decomposition** to isolate underlying trends and identify distinct daily and weekly seasonality patterns in taxi demand.
 * **Feature Engineering for Temporal Data**: Developed a robust feature set using **lag variables**, **calendar attributes** (hour, day of week), and **rolling means** to capture stochastic shifts and autocorrelation.
